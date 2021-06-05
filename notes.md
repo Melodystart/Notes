@@ -14,10 +14,10 @@
 pwd                      # print working directory
 mkdir folder_name        # make directory
 ls                       # list directory and file
-cd folder_name           # changing directory
+cd folder_name           # changing directory (進入資料夾); cd ..(退出);  cd ~從任何目錄直接更換到家目錄，使用cd /從任何目錄直接更換到根目錄
 touch file_name          # create file
-mv file_name file_name   # move file
-cp file_name file_name   # copy file
+mv file_name file_name   # move file (重新命檔名, mv 舊檔名 新檔名)
+cp file_name file_name   # copy file (cp 舊檔名 新檔名)
 rm file_name file_name   # remove file
 rm -r folder_name        # remove folder
 clear                    # clear command line, Ctrl-L
