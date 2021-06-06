@@ -1,4 +1,5 @@
-# 學習筆記
+# 初級約維安學習筆記
+https://datainpoint.substack.com/s/junior-jovyans
 
 ## 第零週 | 歡迎光臨 Jupyter 星球。
 -  Jupyter 命名中 Ju 指的是 Julia 語言、py 指的是 Python 語言、r 指的是 R 語言。
