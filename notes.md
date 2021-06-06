@@ -75,4 +75,3 @@ clear                    # clear command line, Ctrl-L
 開啟 Git Bash（Windows）或者終端機（macOS）輸入以下指令將遠端儲存庫複製一份到電腦中，成為一個本地儲存庫，其中遠端儲存庫的網址可以點選右上角的 Code > Copy 圖示複製。\
 ~$ git clone <YOUR-REPOSITORY-URL>
 ```
-![An old rock in the desert](https://img-blog.csdn.net/20150316184625949)
