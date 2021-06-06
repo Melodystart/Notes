@@ -1,15 +1,15 @@
 # 學習筆記
 
-## 約維安計畫：第零週 | 歡迎光臨 Jupyter 星球。
+## 第零週 | 歡迎光臨 Jupyter 星球。
 -  Jupyter 命名中 Ju 指的是 Julia 語言、py 指的是 Python 語言、r 指的是 R 語言。
 
-## 約維安計畫：第一週 | 預覽約維安文明的科技樹。
+## 第一週 | 預覽約維安文明的科技樹。
 - 黑暗時代：命令列、Markdown 與 Git/GitHub。
 - 封建時代：SQL、Python 與 R。
 - 城堡時代：進階程式設計能力，包含物件導向程式設計（Object-oriented programming, OOP）、函數型程式設計（Functional programming）、套件以及環境管理。
 - 帝王時代：資料分析任務，涵蓋一個或多個資料科學應用場景，包含資料載入、資料處理、資料轉換、資料視覺化、資料模型與資料溝通。
 
-## 約維安計畫：第二週 | 初嘗命令列的滋味。
+## 第二週 | 初嘗命令列的滋味。
 ```
 pwd                      # print working directory
 mkdir folder_name        # make directory
@@ -26,7 +26,7 @@ clear                    # clear command line, Ctrl-L
 # Ctrl-C to stop execution
 ```
 
-## 約維安計畫：第三週 | 初嘗 Markdown 的滋味。
+## 第三週 | 初嘗 Markdown 的滋味。
 - Markdown 是一個輕量的標記式語言（Markup language），約維安能夠使用它撰寫文件，只要在新增txt文字檔之後將副檔名更改為 .md 即可。
 - https://www.markdownguide.org/basic-syntax/
 - 為文字加上樣式：**粗體文字** *斜體文字* `行內程式碼` ~~刪除線文字~~
@@ -64,7 +64,7 @@ clear                    # clear command line, Ctrl-L
 >
 > Forrest Gump
 ```
-## 約維安計畫：第四週 | 初嘗 Git 與 GitHub 的滋味。
+## 第四週 | 初嘗 Git 與 GitHub 的滋味。
 - 在自己的電腦中也保有一份與遠端儲存庫相同的專案
 ```
 開啟 Git Bash（Windows）或者終端機（macOS）輸入以下指令將遠端儲存庫複製一份到電腦中，成為一個本地儲存庫，其中遠端儲存庫的網址可以點選右上角的 Code > Copy 圖示複製。\
