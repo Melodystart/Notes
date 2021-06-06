@@ -54,7 +54,7 @@ clear                    # clear command line, Ctrl-L
 ## 多行程式碼
 
 ```
-多行的\
+多行的  
 程式碼
 ```
 
