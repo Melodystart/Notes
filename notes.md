@@ -53,10 +53,10 @@ clear                    # clear command line, Ctrl-L
 
 ## 多行程式碼
 
-\`\`\`
-多行的  
+```
+多行的\
 程式碼
-\`\`\`
+```
 
 ## 引用
 
@@ -64,8 +64,8 @@ clear                    # clear command line, Ctrl-L
 >
 > Forrest Gump
 
-##其他
-- 換行 (字尾加"\" or 2個空白"  ")
+##換行 
+字尾加"\" or 2個空白"  "
 ```
 ## 第四週 | 初嘗 Git 與 GitHub 的滋味。
 - 在自己的電腦中也保有一份與遠端儲存庫相同的專案
