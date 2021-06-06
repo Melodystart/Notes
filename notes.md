@@ -52,12 +52,12 @@ clear                    # clear command line, Ctrl-L
 - 項目三
 
 ## 多行程式碼
-
+`
 ```
 多行的\
 程式碼
 ```
-
+`
 ## 引用
 
 > Life was like a box of chocolates. You never know what you're gonna get.
