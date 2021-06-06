@@ -65,3 +65,8 @@ clear                    # clear command line, Ctrl-L
 > Forrest Gump
 ```
 ## 約維安計畫：第四週 | 初嘗 Git 與 GitHub 的滋味。
+- 在自己的電腦中也保有一份與遠端儲存庫相同的專案
+```
+開啟 Git Bash（Windows）或者終端機（macOS）輸入以下指令將遠端儲存庫複製一份到電腦中，成為一個本地儲存庫，其中遠端儲存庫的網址可以點選右上角的 Code > Copy 圖示複製。\
+~$ git clone <YOUR-REPOSITORY-URL>
+
