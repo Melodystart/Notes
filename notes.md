@@ -27,5 +27,44 @@ clear                    # clear command line, Ctrl-L
 ```
 
 ## 約維安計畫：第三週 | 初嘗 Markdown 的滋味。
-- Markdown 是一個輕量的標記式語言（Markup language），約維安能夠使用它撰寫文件，只要在新增文字檔之後將副檔名更改為 .md 即可。
+- Markdown 是一個輕量的標記式語言（Markup language），約維安能夠使用它撰寫文件，只要在新增txt文字檔之後將副檔名更改為 .md 即可。
+- 為文字加上樣式
+```
+**粗體文字**
+*斜體文字*
+`行內程式碼`
+~~刪除線文字~~
+```
+**粗體文字**
+*斜體文字*
+`行內程式碼`
+~~刪除線文字~~
+
+- 為文件設計結構
+```
+# 標題階層一
+
+## 標題階層二
+
+### 標題階層三
+
+## 清單
+
+- 項目一
+- 項目二
+- 項目三
+
+## 多行程式碼
+
+```
+多行的
+程式碼
+```
+
+## 引用
+
+> Life was like a box of chocolates. You never know what you're gonna get.
+>
+> Forrest Gump
+```
 ## 約維安計畫：第四週 | 初嘗 Git 與 GitHub 的滋味。
