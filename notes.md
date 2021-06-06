@@ -53,6 +53,7 @@ clear                    # clear command line, Ctrl-L
 
 ## 多行程式碼
 
+用2個```包住多行程式碼
 ```
 多行的\
 程式碼
